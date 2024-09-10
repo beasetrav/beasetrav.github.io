@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://beasetrav.github.io/sitemap.html.gz
+Sitemap: https://beasetrav.github.io/app/sitemap.html.gz
+Sitemap: https://beasetrav.github.io/assets/sitemap.html.gz
+Sitemap: https://beasetrav.github.io/css/sitemap.html.gz
+Sitemap: https://beasetrav.github.io/includes/sitemap.html.gz
+Sitemap: https://beasetrav.github.io/item/sitemap.html.gz
+Sitemap: https://beasetrav.github.io/src/sitemap.html.gz
